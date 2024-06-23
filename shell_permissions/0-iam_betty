@@ -1,5 +1,4 @@
 #!/bin/bash
-su betty 
-1
-
+$su betty 
+$1
 
